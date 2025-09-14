@@ -1,0 +1,1 @@
+(arr[j]>arr[pivot]) && j>=0)
